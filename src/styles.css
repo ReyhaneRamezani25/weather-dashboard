@@ -4,3 +4,15 @@
 * {
     font-family: 'Inter', sans-serif;
 }
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: linear-gradient(
+        135deg,
+       #11152E 0%,
+        #211B45 50%,
+        #35205A 100%
+    );
+    font-family: 'Inter', sans-serif;
+}
